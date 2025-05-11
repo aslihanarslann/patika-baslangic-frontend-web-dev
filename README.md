@@ -1,2 +1,2 @@
-# patika-baslangic-frontend-web-devt.
+# patika-baslangic-frontend-web-dev
 Başlangıç Seviye Frontend Web Development Patikası
