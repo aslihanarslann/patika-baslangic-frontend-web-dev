@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    width: 351;
+    height: 113;
+}
+table{
+    border-style: hidden;
+    border: 0;
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+tbody{
+
+
+    .sutun1{
+        background-color: #EEEEEE;
+    }
+
+    .sutun2{
+        background-color: #7EE5DA;
+        width: 37%;
+    }
+
+    .sutun3{
+        background-color: #70CCC2;
+        font-size: small;
+    }
+
+    .sutun4{
+        background-color: #62B3AA;
+        font-size: small;
+    }
+
+
+    .footer-text{
+        text-align: center;
+    }
+}
